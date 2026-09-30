@@ -1,0 +1,401 @@
+id,message,category,template_id
+1,The reset-password page doesn't open,technical,0
+2,I was charged $12 twice for order #7912,billing,0
+3,Why is my bill $25 higher than the website price?,billing,1
+4,Why is my bill $99 higher than the website price?,billing,1
+5,The reset-password page doesn't open,technical,0
+6,Order #2674 arrived damaged,delivery,1
+7,I got the wrong item in order #5333,delivery,2
+8,I never got the verification code by email,technical,4
+9,The search box on the website does not work,technical,5
+10,Why is my bill $40 higher than the website price?,billing,1
+11,Do you have a store near my city?,other,3
+12,I can't download the invoice for order #5374,billing,2
+13,I can't log in to my account since Thursday,technical,1
+14,The delivery man left my order #6313 at the wrong door,delivery,5
+15,I was charged $40 twice for order #7572,billing,0
+16,Please fix the wrong amount on invoice #4483,billing,4
+17,The delivery man left my order #3340 at the wrong door,delivery,5
+18,The discount code did not work and I paid $40 more,billing,5
+19,Order #9348 arrived damaged,delivery,1
+20,I was charged $12 twice for order #3504,billing,0
+21,The website shows an error when I pay for order #7304,technical,3
+22,The website shows an error when I pay for order #1188,technical,3
+23,I never got the verification code by email,technical,4
+24,Order #1053 arrived damaged,delivery,1
+25,I was charged $12 twice and my package never arrived,other,1
+26,I can't log in to my account since Friday,technical,1
+27,I want my money back,other,4
+28,I can't download the invoice for order #4923,billing,2
+29,Please fix the wrong amount on invoice #2403,billing,4
+30,I want my money back,other,4
+31,I was charged $40 twice and my package never arrived,other,1
+32,Order #6107 arrived damaged,delivery,1
+33,Can someone call me about my account?,other,5
+34,Order #2049 arrived damaged,delivery,1
+35,Please fix the wrong amount on invoice #4608,billing,4
+36,The discount code did not work and I paid $12 more,billing,5
+37,This is the worst service ever!!!,other,2
+38,The tracking page has shown no update since Tuesday,delivery,3
+39,I never got the verification code by email,technical,4
+40,I was charged $12 twice and my package never arrived,other,1
+41,The tracking page has shown no update since Monday,delivery,3
+42,The discount code did not work and I paid $40 more,billing,5
+43,Please fix the wrong amount on invoice #3296,billing,4
+44,My card was charged but I got no payment receipt,billing,3
+45,I want my money back,other,4
+46,Refund order #3724 please,other,0
+47,Order #1960 arrived damaged,delivery,1
+48,The tracking page has shown no update since Wednesday,delivery,3
+49,The delivery man left my order #3536 at the wrong door,delivery,5
+50,My package for order #6138 has not arrived yet,delivery,0
+51,My card was charged but I got no payment receipt,billing,3
+52,Why is my bill $12 higher than the website price?,billing,1
+53,My package was supposed to come on Friday but it did not,delivery,4
+54,The discount code did not work and I paid $40 more,billing,5
+55,The app closes when I open my orders,technical,2
+56,The discount code did not work and I paid $40 more,billing,5
+57,Refund order #8508 please,other,0
+58,Refund order #9808 please,other,0
+59,Order #2127 arrived damaged,delivery,1
+60,Order #9900 arrived damaged,delivery,1
+61,The search box on the website does not work,technical,5
+62,I was charged $40 twice and my package never arrived,other,1
+63,I can't log in to my account since Friday,technical,1
+64,I can't download the invoice for order #5325,billing,2
+65,My package for order #7939 has not arrived yet,delivery,0
+66,I can't download the invoice for order #5291,billing,2
+67,I never got the verification code by email,technical,4
+68,The discount code did not work and I paid $25 more,billing,5
+69,I want my money back,other,4
+70,I can't download the invoice for order #6862,billing,2
+71,The search box on the website does not work,technical,5
+72,Do you have a store near my city?,other,3
+73,I was charged $99 twice and my package never arrived,other,1
+74,The app closes when I open my orders,technical,2
+75,The discount code did not work and I paid $12 more,billing,5
+76,I was charged $25 twice and my package never arrived,other,1
+77,Order #1387 arrived damaged,delivery,1
+78,I got the wrong item in order #5573,delivery,2
+79,The website shows an error when I pay for order #1452,technical,3
+80,This is the worst service ever!!!,other,2
+81,My card was charged but I got no payment receipt,billing,3
+82,I never got the verification code by email,technical,4
+83,I was charged $99 twice for order #1027,billing,0
+84,I want my money back,other,4
+85,The discount code did not work and I paid $40 more,billing,5
+86,The app closes when I open my orders,technical,2
+87,I got the wrong item in order #4143,delivery,2
+88,The website shows an error when I pay for order #5930,technical,3
+89,My package for order #5700 has not arrived yet,delivery,0
+90,My package was supposed to come on Thursday but it did not,delivery,4
+91,Order #3780 arrived damaged,delivery,1
+92,The delivery man left my order #2530 at the wrong door,delivery,5
+93,I can't log in to my account since Monday,technical,1
+94,My card was charged but I got no payment receipt,billing,3
+95,I want my money back,other,4
+96,Order #2746 arrived damaged,delivery,1
+97,The discount code did not work and I paid $99 more,billing,5
+98,I was charged $99 twice for order #3184,billing,0
+99,I never got the verification code by email,technical,4
+100,I want my money back,other,4
+101,Can someone call me about my account?,other,5
+102,The search box on the website does not work,technical,5
+103,The app closes when I open my orders,technical,2
+104,I can't download the invoice for order #9849,billing,2
+105,Why is my bill $99 higher than the website price?,billing,1
+106,My card was charged but I got no payment receipt,billing,3
+107,Order #7381 arrived damaged,delivery,1
+108,Refund order #8814 please,other,0
+109,This is the worst service ever!!!,other,2
+110,I never got the verification code by email,technical,4
+111,The tracking page has shown no update since Wednesday,delivery,3
+112,The website shows an error when I pay for order #8657,technical,3
+113,I want my money back,other,4
+114,The reset-password page doesn't open,technical,0
+115,I was charged $12 twice and my package never arrived,other,1
+116,The tracking page has shown no update since Thursday,delivery,3
+117,The tracking page has shown no update since Thursday,delivery,3
+118,Please fix the wrong amount on invoice #6733,billing,4
+119,The search box on the website does not work,technical,5
+120,I was charged $25 twice for order #4908,billing,0
+121,My package for order #8619 has not arrived yet,delivery,0
+122,I can't log in to my account since Wednesday,technical,1
+123,I was charged $40 twice for order #7149,billing,0
+124,I was charged $12 twice and my package never arrived,other,1
+125,The app closes when I open my orders,technical,2
+126,The delivery man left my order #2129 at the wrong door,delivery,5
+127,The reset-password page doesn't open,technical,0
+128,I got the wrong item in order #3506,delivery,2
+129,Please fix the wrong amount on invoice #9817,billing,4
+130,The delivery man left my order #6280 at the wrong door,delivery,5
+131,Refund order #8385 please,other,0
+132,I never got the verification code by email,technical,4
+133,I got the wrong item in order #8988,delivery,2
+134,I got the wrong item in order #5581,delivery,2
+135,The app closes when I open my orders,technical,2
+136,The discount code did not work and I paid $99 more,billing,5
+137,The search box on the website does not work,technical,5
+138,The reset-password page doesn't open,technical,0
+139,The app closes when I open my orders,technical,2
+140,The tracking page has shown no update since Thursday,delivery,3
+141,I got the wrong item in order #2976,delivery,2
+142,The delivery man left my order #4138 at the wrong door,delivery,5
+143,The app closes when I open my orders,technical,2
+144,I got the wrong item in order #5952,delivery,2
+145,I can't log in to my account since Monday,technical,1
+146,The search box on the website does not work,technical,5
+147,I want my money back,other,4
+148,Order #5136 arrived damaged,delivery,1
+149,I was charged $99 twice for order #9056,billing,0
+150,The search box on the website does not work,technical,5
+151,This is the worst service ever!!!,other,2
+152,The website shows an error when I pay for order #9561,technical,3
+153,The tracking page has shown no update since Wednesday,delivery,3
+154,The reset-password page doesn't open,technical,0
+155,My package for order #4929 has not arrived yet,delivery,0
+156,I can't log in to my account since Thursday,technical,1
+157,The website shows an error when I pay for order #1534,technical,3
+158,I got the wrong item in order #2166,delivery,2
+159,Can someone call me about my account?,other,5
+160,The delivery man left my order #5352 at the wrong door,delivery,5
+161,Why is my bill $40 higher than the website price?,billing,1
+162,The discount code did not work and I paid $40 more,billing,5
+163,The tracking page has shown no update since Friday,delivery,3
+164,My card was charged but I got no payment receipt,billing,3
+165,The discount code did not work and I paid $12 more,billing,5
+166,Why is my bill $99 higher than the website price?,billing,1
+167,I was charged $99 twice and my package never arrived,other,1
+168,The tracking page has shown no update since Monday,delivery,3
+169,This is the worst service ever!!!,other,2
+170,The website shows an error when I pay for order #8451,technical,3
+171,I got the wrong item in order #7622,delivery,2
+172,Refund order #7770 please,other,0
+173,I can't download the invoice for order #8242,billing,2
+174,Please fix the wrong amount on invoice #5719,billing,4
+175,Do you have a store near my city?,other,3
+176,The search box on the website does not work,technical,5
+177,My card was charged but I got no payment receipt,billing,3
+178,My package for order #9165 has not arrived yet,delivery,0
+179,I got the wrong item in order #8905,delivery,2
+180,Please fix the wrong amount on invoice #7284,billing,4
+181,I want my money back,other,4
+182,The website shows an error when I pay for order #9318,technical,3
+183,This is the worst service ever!!!,other,2
+184,The tracking page has shown no update since Friday,delivery,3
+185,The website shows an error when I pay for order #6272,technical,3
+186,I was charged $99 twice and my package never arrived,other,1
+187,The discount code did not work and I paid $99 more,billing,5
+188,Can someone call me about my account?,other,5
+189,Please fix the wrong amount on invoice #2644,billing,4
+190,My card was charged but I got no payment receipt,billing,3
+191,I was charged $12 twice and my package never arrived,other,1
+192,The delivery man left my order #2315 at the wrong door,delivery,5
+193,I want my money back,other,4
+194,Refund order #4846 please,other,0
+195,Can someone call me about my account?,other,5
+196,The search box on the website does not work,technical,5
+197,The reset-password page doesn't open,technical,0
+198,I got the wrong item in order #3385,delivery,2
+199,My package was supposed to come on Tuesday but it did not,delivery,4
+200,My card was charged but I got no payment receipt,billing,3
+201,My card was charged but I got no payment receipt,billing,3
+202,The website shows an error when I pay for order #9955,technical,3
+203,I can't download the invoice for order #7951,billing,2
+204,I got the wrong item in order #7302,delivery,2
+205,My card was charged but I got no payment receipt,billing,3
+206,The discount code did not work and I paid $99 more,billing,5
+207,The search box on the website does not work,technical,5
+208,I can't log in to my account since Tuesday,technical,1
+209,The search box on the website does not work,technical,5
+210,The tracking page has shown no update since Tuesday,delivery,3
+211,I can't download the invoice for order #7807,billing,2
+212,Please fix the wrong amount on invoice #9697,billing,4
+213,I was charged $40 twice and my package never arrived,other,1
+214,The app closes when I open my orders,technical,2
+215,Why is my bill $99 higher than the website price?,billing,1
+216,The reset-password page doesn't open,technical,0
+217,The delivery man left my order #7242 at the wrong door,delivery,5
+218,Why is my bill $99 higher than the website price?,billing,1
+219,I want my money back,other,4
+220,The website shows an error when I pay for order #7689,technical,3
+221,I was charged $40 twice for order #9071,billing,0
+222,Please fix the wrong amount on invoice #7367,billing,4
+223,The delivery man left my order #3531 at the wrong door,delivery,5
+224,The website shows an error when I pay for order #5583,technical,3
+225,I can't log in to my account since Tuesday,technical,1
+226,Refund order #9920 please,other,0
+227,I can't download the invoice for order #3001,billing,2
+228,Why is my bill $12 higher than the website price?,billing,1
+229,Why is my bill $25 higher than the website price?,billing,1
+230,Why is my bill $25 higher than the website price?,billing,1
+231,I never got the verification code by email,technical,4
+232,I want my money back,other,4
+233,The reset-password page doesn't open,technical,0
+234,I can't log in to my account since Tuesday,technical,1
+235,Order #9619 arrived damaged,delivery,1
+236,The website shows an error when I pay for order #6931,technical,3
+237,The website shows an error when I pay for order #1710,technical,3
+238,The delivery man left my order #1996 at the wrong door,delivery,5
+239,Do you have a store near my city?,other,3
+240,I was charged $40 twice for order #3430,billing,0
+241,Please fix the wrong amount on invoice #7240,billing,4
+242,The tracking page has shown no update since Monday,delivery,3
+243,Can someone call me about my account?,other,5
+244,Do you have a store near my city?,other,3
+245,My package for order #7992 has not arrived yet,delivery,0
+246,The app closes when I open my orders,technical,2
+247,I was charged $12 twice for order #8075,billing,0
+248,The app closes when I open my orders,technical,2
+249,I want my money back,other,4
+250,The delivery man left my order #1842 at the wrong door,delivery,5
+251,The app closes when I open my orders,technical,2
+252,My card was charged but I got no payment receipt,billing,3
+253,This is the worst service ever!!!,other,2
+254,My card was charged but I got no payment receipt,billing,3
+255,The discount code did not work and I paid $40 more,billing,5
+256,Why is my bill $99 higher than the website price?,billing,1
+257,The reset-password page doesn't open,technical,0
+258,The tracking page has shown no update since Wednesday,delivery,3
+259,I got the wrong item in order #1861,delivery,2
+260,Please fix the wrong amount on invoice #2336,billing,4
+261,The tracking page has shown no update since Thursday,delivery,3
+262,My package was supposed to come on Thursday but it did not,delivery,4
+263,The discount code did not work and I paid $99 more,billing,5
+264,My card was charged but I got no payment receipt,billing,3
+265,Order #5186 arrived damaged,delivery,1
+266,My package for order #8055 has not arrived yet,delivery,0
+267,Please fix the wrong amount on invoice #9196,billing,4
+268,This is the worst service ever!!!,other,2
+269,The tracking page has shown no update since Friday,delivery,3
+270,The tracking page has shown no update since Monday,delivery,3
+271,I got the wrong item in order #8538,delivery,2
+272,I was charged $25 twice for order #8138,billing,0
+273,My package for order #6083 has not arrived yet,delivery,0
+274,Why is my bill $12 higher than the website price?,billing,1
+275,Order #6752 arrived damaged,delivery,1
+276,Why is my bill $40 higher than the website price?,billing,1
+277,The search box on the website does not work,technical,5
+278,My package was supposed to come on Wednesday but it did not,delivery,4
+279,I was charged $99 twice for order #8245,billing,0
+280,I never got the verification code by email,technical,4
+281,My card was charged but I got no payment receipt,billing,3
+282,I got the wrong item in order #2479,delivery,2
+283,The website shows an error when I pay for order #1672,technical,3
+284,I want my money back,other,4
+285,Order #8381 arrived damaged,delivery,1
+286,This is the worst service ever!!!,other,2
+287,The discount code did not work and I paid $99 more,billing,5
+288,Order #7108 arrived damaged,delivery,1
+289,I got the wrong item in order #6482,delivery,2
+290,My package was supposed to come on Wednesday but it did not,delivery,4
+291,The search box on the website does not work,technical,5
+292,I can't log in to my account since Thursday,technical,1
+293,The discount code did not work and I paid $12 more,billing,5
+294,I got the wrong item in order #9624,delivery,2
+295,The website shows an error when I pay for order #1298,technical,3
+296,Order #8967 arrived damaged,delivery,1
+297,Why is my bill $25 higher than the website price?,billing,1
+298,Refund order #6517 please,other,0
+299,My card was charged but I got no payment receipt,billing,3
+300,I want my money back,other,4
+301,The delivery man left my order #8277 at the wrong door,delivery,5
+302,The delivery man left my order #4833 at the wrong door,delivery,5
+303,My card was charged but I got no payment receipt,billing,3
+304,Do you have a store near my city?,other,3
+305,Order #3267 arrived damaged,delivery,1
+306,My card was charged but I got no payment receipt,billing,3
+307,This is the worst service ever!!!,other,2
+308,My package was supposed to come on Monday but it did not,delivery,4
+309,I was charged $99 twice and my package never arrived,other,1
+310,The tracking page has shown no update since Thursday,delivery,3
+311,This is the worst service ever!!!,other,2
+312,Can someone call me about my account?,other,5
+313,My card was charged but I got no payment receipt,billing,3
+314,The reset-password page doesn't open,technical,0
+315,I want my money back,other,4
+316,I was charged $12 twice for order #4906,billing,0
+317,I never got the verification code by email,technical,4
+318,Do you have a store near my city?,other,3
+319,Why is my bill $40 higher than the website price?,billing,1
+320,I can't log in to my account since Monday,technical,1
+321,I got the wrong item in order #9618,delivery,2
+322,My package was supposed to come on Thursday but it did not,delivery,4
+323,My card was charged but I got no payment receipt,billing,3
+324,My package for order #4950 has not arrived yet,delivery,0
+325,The search box on the website does not work,technical,5
+326,I got the wrong item in order #8612,delivery,2
+327,I can't log in to my account since Monday,technical,1
+328,My package for order #1686 has not arrived yet,delivery,0
+329,I want my money back,other,4
+330,The delivery man left my order #5687 at the wrong door,delivery,5
+331,Refund order #5476 please,other,0
+332,The website shows an error when I pay for order #8204,technical,3
+333,Order #9151 arrived damaged,delivery,1
+334,I want my money back,other,4
+335,Please fix the wrong amount on invoice #9937,billing,4
+336,My package for order #5843 has not arrived yet,delivery,0
+337,The delivery man left my order #3730 at the wrong door,delivery,5
+338,My package for order #8126 has not arrived yet,delivery,0
+339,The reset-password page doesn't open,technical,0
+340,The delivery man left my order #1510 at the wrong door,delivery,5
+341,Can someone call me about my account?,other,5
+342,The discount code did not work and I paid $40 more,billing,5
+343,Refund order #8371 please,other,0
+344,My package for order #9674 has not arrived yet,delivery,0
+345,The delivery man left my order #5089 at the wrong door,delivery,5
+346,Why is my bill $99 higher than the website price?,billing,1
+347,Refund order #5264 please,other,0
+348,Please fix the wrong amount on invoice #9047,billing,4
+349,I was charged $99 twice for order #3828,billing,0
+350,Can someone call me about my account?,other,5
+351,I got the wrong item in order #3580,delivery,2
+352,I never got the verification code by email,technical,4
+353,I can't log in to my account since Wednesday,technical,1
+354,The app closes when I open my orders,technical,2
+355,Refund order #7523 please,other,0
+356,The tracking page has shown no update since Wednesday,delivery,3
+357,The website shows an error when I pay for order #9476,technical,3
+358,Please fix the wrong amount on invoice #3114,billing,4
+359,My package for order #9488 has not arrived yet,delivery,0
+360,Order #4694 arrived damaged,delivery,1
+361,I want my money back,other,4
+362,Please fix the wrong amount on invoice #3050,billing,4
+363,The reset-password page doesn't open,technical,0
+364,The search box on the website does not work,technical,5
+365,The discount code did not work and I paid $40 more,billing,5
+366,The delivery man left my order #9159 at the wrong door,delivery,5
+367,I got the wrong item in order #5012,delivery,2
+368,My package for order #3589 has not arrived yet,delivery,0
+369,The tracking page has shown no update since Friday,delivery,3
+370,The discount code did not work and I paid $40 more,billing,5
+371,I can't download the invoice for order #6228,billing,2
+372,I got the wrong item in order #5061,delivery,2
+373,I can't download the invoice for order #7850,billing,2
+374,I was charged $40 twice and my package never arrived,other,1
+375,The website shows an error when I pay for order #9171,technical,3
+376,My package for order #9281 has not arrived yet,delivery,0
+377,I was charged $40 twice and my package never arrived,other,1
+378,My package was supposed to come on Friday but it did not,delivery,4
+379,I was charged $99 twice for order #3194,billing,0
+380,The website shows an error when I pay for order #1741,technical,3
+381,Please fix the wrong amount on invoice #6939,billing,4
+382,The tracking page has shown no update since Friday,delivery,3
+383,The reset-password page doesn't open,technical,0
+384,I got the wrong item in order #3363,delivery,2
+385,The website shows an error when I pay for order #1742,technical,3
+386,I can't download the invoice for order #9508,billing,2
+387,Please fix the wrong amount on invoice #6373,billing,4
+388,The tracking page has shown no update since Friday,delivery,3
+389,I want my money back,other,4
+390,This is the worst service ever!!!,other,2
+391,The search box on the website does not work,technical,5
+392,I want my money back,other,4
+393,My package was supposed to come on Tuesday but it did not,delivery,4
+394,The discount code did not work and I paid $12 more,billing,5
+395,The tracking page has shown no update since Tuesday,delivery,3
+396,My package was supposed to come on Tuesday but it did not,delivery,4
+397,My package was supposed to come on Friday but it did not,delivery,4
+398,Order #9734 arrived damaged,delivery,1
+399,The delivery man left my order #8932 at the wrong door,delivery,5
+400,This is the worst service ever!!!,other,2
