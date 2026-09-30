@@ -1,6 +1,6 @@
 import csv
 
-ALLOWED = ["billing", "technical", "delivery"]
+ALLOWED = ["billing", "technical", "delivery", "other"]
 
 def count_categories(filename):
     with open(filename, "r", newline='') as file:

@@ -1,6 +1,6 @@
 import pandas as pd
 
-ALLOWED = ["billing", "technical", "delivery"]
+ALLOWED = ["billing", "technical", "delivery", "other"]
 
 df = pd.read_csv("tickets.csv")
 print(df.head())
