@@ -25,7 +25,7 @@ def show_output(counts, unknown):
     for category in counts:
         print(f'{category}: {counts[category]}')
     print(f'Total number of tickets = {sum(counts.values())}')
-    print("******************************************")
+    print("*****************************************")
 
 
 counts1, unknown1 = count_categories("tickets.csv")
