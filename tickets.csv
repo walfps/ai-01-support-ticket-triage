@@ -1,0 +1,12 @@
+id,message,category
+1,My package arrived damaged,delivery
+2,My package still not received,delivery
+3,I got the wrong package,delivery
+4,I got charged twice,billing
+5,I can't download the invoice,billing
+6,I still waiting for the refund,billing
+7,The app won't start,technical
+8,The reset-password page doesn't open,technical
+9,The profile tab won't open,technical
+10,I want my money back,refund
+11,Refund my order please,refund
